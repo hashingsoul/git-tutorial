@@ -4,4 +4,4 @@ print(a)
 print(b)
 
 
-str_master="hello"
+str1="hii"
