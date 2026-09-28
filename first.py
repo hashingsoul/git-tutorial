@@ -3,5 +3,6 @@ b="welco to this channel"
 print(a)
 print(b)
 
-
-str1="hii"
+c="check for pull"
+str_master="hello"
+d="new line added"
